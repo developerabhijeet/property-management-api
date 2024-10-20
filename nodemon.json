@@ -1,0 +1,9 @@
+{
+  "watch": ["src", "config"],
+  "ext": "js,json",
+  "ignore": ["node_modules", "dist"],
+  "exec": "node --inspect=9229 index.js",
+  "env": {
+    "NODE_ENV": "development"
+  }
+}

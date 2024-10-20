@@ -1,0 +1,49 @@
+# Dependency directory
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Environment variables
+.env
+
+# Optional npm cache directory
+.npm
+
+# Optional REPL history
+.node_repl_history
+
+# OS-specific files (Mac)
+.DS_Store
+
+# OS-specific files (Windows)
+Thumbs.db
+Desktop.ini
+
+# IDE-specific files
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+
+# Ignore coverage reports
+coverage/
+
+# Ignore built files (if you're transpiling code, e.g., using TypeScript)
+dist/
+build/
+
+# Ignore temporary and backup files
+*.swp
+*.bak
+*.tmp

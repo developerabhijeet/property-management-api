@@ -26,7 +26,7 @@
 ## Prerequisites
 
 - **Node.js** (version 16+ recommended)
-- **Yarn** package manager
+- **NPM** package manager
 - **PostgreSQL** (ensure a running instance)
 
 ## Installation and Set-up
